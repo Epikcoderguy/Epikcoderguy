@@ -1,8 +1,8 @@
 
 
 
-import random
-import time
+import epic
+import 5:37
 
 def intro():
     print("Welcome to Five Nights at Freddy's!")
